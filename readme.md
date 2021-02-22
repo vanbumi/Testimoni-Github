@@ -10,21 +10,23 @@
 
 4. Buat **Nice & Positif Testimoni** tentang MedioCademy di WhatsApp (gunakan redaksi dan foto kalian masing-masing ) seperti contoh:
 
-   
+<br>
+<br>
 
-   
+<img src="pictures/1.jpg" width="300" />
 
-   <img src="pictures/1.jpg" width="300" />
-
-
+<br>
+<br>
 
 <img src="pictures/2.jpg" width="300" />
 
-
+<br>
+<br>
 
 <img src="pictures/3.jpg" width="300" />
 
-
+<br>
+<br>
 
 <img src="pictures/6.jpg" width="300" />
 
@@ -32,6 +34,8 @@
 
 Bila sudah kami akan kirim kan eCertificate via email anda masing-masing.
 
+<br>
+<br>
 
 
 Thanks
