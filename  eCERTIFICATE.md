@@ -2,7 +2,7 @@
 
 
 
-1. Nama yang ingin di print : (Gelar, Title dsb) contoh: **Ir. Dr. Raden Mas Sigit Purnomo, SH, MSH.**
+1. Nama yang ingin di print di eCertificate : (Gelar, Title dsb) contoh: **Ir. Dr. Raden Mas Sigit Purnomo, SH, MSH.**
 
 2. Nama kelas : contoh **Kelas Fullstack JavaScript Developer.**
 
